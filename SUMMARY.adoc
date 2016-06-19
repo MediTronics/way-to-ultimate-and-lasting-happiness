@@ -1,4 +1,4 @@
 # Content
 
-* [Basics of Being Peaceful and Harmonious to get Peace and Happiness](Basics of Being Peaceful and Harmonious to get Peace and Happiness.adoc)
+* link:lesson1-theory.adoc[Basics of Being Peaceful and Harmonious to get Peace and Happiness]
 * 
