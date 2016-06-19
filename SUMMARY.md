@@ -1,3 +1,3 @@
 # Content
 
-* [First Chapter](chapter1.md)
+* [Day 1: Understanding the Technique](day1.md)
