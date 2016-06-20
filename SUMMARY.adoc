@@ -1,5 +1,5 @@
 = Summary
 
 . link:README.adoc[Introduction]
-. link:lesson1-theory.adoc[Behavioural Modification Leading to Peace and Happiness]
+. link:behaviour.adoc[Behavioural Modification Leading to Peace and Happiness]
 
